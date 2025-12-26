@@ -13,7 +13,7 @@
 
 Este proyecto fusiona **IoT (Internet of Things)** con **Procesamiento Digital de Imágenes**. El objetivo es materializar cómo las emociones alteran nuestra percepción de la realidad.
 
-El usuario interactúa con un "cerebro" físico hecho de platicera equipado con sensores táctiles. Cada región del cerebro representa un estado emocional (Furia, Alegría, Tristeza, Satisfacción). Al estimular una región, el sistema captura ese input y transforma algorítmicamente una imagen proyectada en tiempo real, aplicando filtros de visión artificial que simulan visualmente esa emoción.
+El usuario interactúa con un "cerebro" físico hecho de plasticera equipado con sensores táctiles. Cada región del cerebro representa un estado emocional (Furia, Alegría, Tristeza, Satisfacción). Al estimular una región, el sistema captura ese input y transforma algorítmicamente una imagen proyectada en tiempo real, aplicando filtros de visión artificial que simulan visualmente esa emoción.
 
 ---
 
